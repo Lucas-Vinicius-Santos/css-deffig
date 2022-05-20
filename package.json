@@ -2,8 +2,13 @@
   "name": "css-deffig",
   "displayName": "css-deffig",
   "description": "Snippets to add my preset settings",
-  "version": "1.0.0",
-  "publisher": "Lucas-Vinicius-Santos",
+  "version": "1.1.0",
+  "publisher": "LucasUndefined",
+  "galleryBanner": {
+    "color": "#232323",
+    "theme": "dark"
+  },
+  "icon": "assets/css-deffig.png",
   "author": {
     "name": "Lucas Vinicius Santos",
     "email": "vinicius.santoss.dev@gmail.com"

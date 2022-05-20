@@ -28,7 +28,7 @@
       "\t--text-xl: 2.4rem; /* 24px */",
       "\t--text-2xl: 2.8rem; /* 28px */",
       "\t--text-3xl: 3.2rem; /* 32px */",
-      " \t--text-4xl: 4.8rem; /* 48px */",
+      "\t--text-4xl: 4.8rem; /* 48px */",
       "}",
       "",
       "* {",
