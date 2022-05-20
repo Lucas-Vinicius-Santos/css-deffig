@@ -78,7 +78,7 @@
       "\tword-break: break-word;",
       "}",
       "",
-      "#root {",
+      ".container {",
       "\tmax-width: 1020px;",
       "\tmargin: 0 auto;",
       "}",

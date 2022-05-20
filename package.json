@@ -3,6 +3,7 @@
   "displayName": "css-deffig",
   "description": "Snippets to add my preset settings",
   "version": "0.0.1",
+  "publisher": "Lucas Vinicius Santos",
   "engines": {
     "vscode": "^1.67.0"
   },
