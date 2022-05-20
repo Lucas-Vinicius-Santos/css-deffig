@@ -2,11 +2,30 @@
   "name": "css-deffig",
   "displayName": "css-deffig",
   "description": "Snippets to add my preset settings",
-  "version": "0.0.1",
-  "publisher": "Lucas Vinicius Santos",
+  "version": "1.0.0",
+  "publisher": "Lucas-Vinicius-Santos",
+  "author": {
+    "name": "Lucas Vinicius Santos",
+    "email": "vinicius.santoss.dev@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Vinicius-Santos/css-deffig.git"
+  },
   "engines": {
     "vscode": "^1.67.0"
   },
+  "keywords": [
+    "css-deffig",
+    "vscode",
+    "css",
+    "sass",
+    "snippets",
+    "presets",
+    "configs",
+    "default"
+  ],
   "categories": [
     "Snippets"
   ],
